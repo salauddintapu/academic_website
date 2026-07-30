@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: To make something special, you just have to believe it's special.
 
 profile:
   align: right
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I am Salauddin Tapu. I am currently pursuing my masters at Gachon University, Seongnam, South Korea. I am working as a Graduate Research Assistant at the [Energy Conversion Materials and Systems (ECMS)](https://sites.google.com/view/ecmslab) Laboratory under the supervision of [Prof. Jongkuk Ko](https://scholar.google.com/citations?hl=ko&user=R46T_moAAAAJ&view_op=list_works). I joined the ECMS Lab in Spring 2026. My current research focuses on robotics and actuation systems, with particular interests in intelligent robotic platforms, autonomous systems, and robot design.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I completed my B.Sc. in Electronics and Communication Engineering from Khulna University, Bangladesh. During my undergraduate studies, I conducted research under the supervision of [Prof. Dr. Uzzal Biswas](https://scholar.google.com/citations?user=Yj1hZlUAAAAJ&hl=en). My undergraduate thesis, *Prediction of Arrhythmia after Acute Myocardial Infarction Using Machine Learning and Statistical Techniques*, explored the application of machine learning and statistical methods for predicting cardiac arrhythmia from clinical data. This work sparked my interest in applying artificial intelligence to solve real-world engineering problems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My long-term research interest lies in intelligent robotics and swarm intelligence. I aspire to develop autonomous robotic systems that can perceive their environment, collaborate with one another, and make collective decisions to accomplish complex tasks efficiently. Ultimately, I hope to contribute to the advancement of next-generation robotic systems by integrating robotics, artificial intelligence, and multi-agent intelligence for real-world applications.
