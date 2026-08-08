@@ -2,7 +2,6 @@
 layout: page
 title: News
 permalink: /news/
-description: News and updates
 nav: true
 nav_order: 3
 ---
@@ -15,7 +14,7 @@ nav_order: 3
 
 <div class="row mb-3">
   <div class="col-sm-2">
-    {{ item.date | date: "%b %d, %Y" }}
+    <strong>{{ item.date | date: "%b %d, %Y" }}</strong>
   </div>
 
   <div class="col-sm-10">
