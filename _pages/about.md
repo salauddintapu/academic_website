@@ -29,7 +29,7 @@ Hi, I am Salauddin Tapu. I am currently pursuing my masters at Gachon University
 </p>
 
 <p style="text-align: justify;">
-I completed my B.Sc. in Electronics and Communication Engineering from Khulna University, Bangladesh. During my undergraduate studies, I conducted research under the supervision of <a href="https://scholar.google.com/citations?user=Yj1hZlUAAAAJ&hl=en">Prof. Dr. Uzzal Biswas</a>. My undergraduate thesis, *Prediction of Arrhythmia after Acute Myocardial Infarction Using Machine Learning and Statistical Techniques*, explored the application of machine learning and statistical methods for predicting cardiac arrhythmia from clinical data. This work sparked my interest in applying artificial intelligence to solve real-world engineering problems.
+I completed my B.Sc. in Electronics and Communication Engineering from Khulna University, Bangladesh. During my undergraduate studies, I conducted research under the supervision of <a href="https://scholar.google.com/citations?user=Yj1hZlUAAAAJ&hl=en">Prof. Dr. Uzzal Biswas</a>. My undergraduate thesis, M<i>Prediction of Arrhythmia after Acute Myocardial Infarction Using Machine Learning and Statistical Techniques</i>, explored the application of machine learning and statistical methods for predicting cardiac arrhythmia from clinical data. This work sparked my interest in applying artificial intelligence to solve real-world engineering problems.
 </p>
 
 <p style="text-align: justify;">
