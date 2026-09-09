@@ -82,12 +82,12 @@ cv:
           - "Face Recognition System: Developed a high-speed, real-time attendance system powered by face recognition on live CCTV footage."
           - "FinTech Project: Built an OCR system incorporating YOLOv5 to process Credit Information Bureau (CIB) reports and bank statement documents."
 
-    Volunteer Work:
-      - label: "President — Khulna University Career Club, Khulna, Bangladesh (Apr 2022 – Feb 2023)"
-        details: "Led 15+ events, including 1 national and 1 regional, with a team of 50+ members."
+    # Volunteer Work:
+    #   - label: "President — Khulna University Career Club, Khulna, Bangladesh (Apr 2022 – Feb 2023)"
+    #     details: "Led 15+ events, including 1 national and 1 regional, with a team of 50+ members."
 
-      - label: "International Service Director — Rotaract Club of Khulna University, Khulna, Bangladesh (Jul 2020 – Apr 2021)"
-        details: "Organized 6+ events, working in a team of 30+ members."
+    #   - label: "International Service Director — Rotaract Club of Khulna University, Khulna, Bangladesh (Jul 2020 – Apr 2021)"
+    #     details: "Organized 6+ events, working in a team of 30+ members."
 
     Publications:
       - title: "Med-2D SegNet: A Lightweight Deep Neural Network for Medical 2D Image Segmentation"
@@ -144,8 +144,8 @@ cv:
     References:
       - name: Prof. Jongkuk Ko
         icon: fa-solid fa-graduation-cap
-        reference: "Department of Chemical and Biological Engineering, Gachon University, South Korea. Email: kojk@gachon.ac.kr"
+        reference: "Department of Chemical and Biological Engineering, Gachon University, South Korea.<br>Email: kojk@gachon.ac.kr"
 
       - name: Prof. Dr. Uzzal Biswas
         icon: fa-solid fa-graduation-cap
-        reference: "Electronics and Communication Engineering Discipline, Khulna University, Bangladesh. Email: uzzal.biswas@ece.ku.ac.bd"
+        reference: "Electronics and Communication Engineering Discipline, Khulna University, Bangladesh.<br>Email: uzzal.biswas@ece.ku.ac.bd"
