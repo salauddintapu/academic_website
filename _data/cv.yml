@@ -22,7 +22,7 @@ cv:
   sections:
     Education:
       - institution: Gachon University
-        location: Seongnam, South Korea
+        location: Seongnam,<br>South Korea
         url: https://www.gachon.ac.kr/
         area: Chemical and Biological Engineering
         studyType: M.S.
@@ -35,7 +35,7 @@ cv:
           - "Thesis: To be determined"
 
       - institution: Khulna University
-        location: Khulna, Bangladesh
+        location: Khulna,<br>Bangladesh
         area: Electronics and Communication Engineering
         studyType: B.Sc.
         start_date: 2018
@@ -54,7 +54,7 @@ cv:
     Experience:
       - company: ECMS Lab, Gachon University
         position: Graduate Research Assistant
-        location: Seongnam, South Korea
+        location: Seongnam,<br>South Korea
         url: https://sites.google.com/view/ecmslab/home
         start_date: 2026-03
         end_date: Present
@@ -62,7 +62,7 @@ cv:
 
       - company: Anwar Technologies
         position: Junior Machine Learning Engineer
-        location: Dhaka, Bangladesh
+        location: Dhaka,<br>Bangladesh
         start_date: 2023-11
         end_date: 2025-11
         summary: Worked on a Bangla handwritten OCR research system, a document processing pipeline, and a face recognition system.
@@ -73,7 +73,7 @@ cv:
 
       - company: Anwar Technologies
         position: Machine Learning Engineer (Intern)
-        location: Dhaka, Bangladesh
+        location: Dhaka,<br>Bangladesh
         start_date: 2023-08
         end_date: 2023-11
         highlights:
@@ -81,7 +81,7 @@ cv:
 
       - company: VISIE Limited
         position: Junior Machine Learning Engineer (Project Based)
-        location: Dhaka, Bangladesh
+        location: Dhaka,<br>Bangladesh
         url: https://visie.tech
         start_date: 2023-01
         end_date: 2024-12
@@ -140,7 +140,7 @@ cv:
 
       - name: Hardware & Robotics
         icon: fa-solid fa-microchip
-        keywords: "KiCAD"
+        keywords: "KiCAD, Altium"
 
     Languages:
       - name: Bengali
