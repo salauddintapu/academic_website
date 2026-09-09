@@ -55,6 +55,7 @@ cv:
       - company: ECMS Lab, Gachon University
         position: Graduate Research Assistant
         location: Seongnam, South Korea
+        url: https://sites.google.com/view/ecmslab/home
         start_date: 2026-03
         end_date: Present
         summary: Currently working on small-scale robotics, actuators, and miniaturized UAVs.
