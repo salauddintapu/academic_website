@@ -82,20 +82,12 @@ cv:
           - "Face Recognition System: Developed a high-speed, real-time attendance system powered by face recognition on live CCTV footage."
           - "FinTech Project: Built an OCR system incorporating YOLOv5 to process Credit Information Bureau (CIB) reports and bank statement documents."
 
-    Volunteer:
-      - company: Khulna University Career Club
-        position: President
-        location: Khulna, Bangladesh
-        start_date: 2022-04-01
-        end_date: 2023-02-01
-        summary: Led 15+ events, including 1 national and 1 regional, with a team of 50+ members.
+    Volunteer Work:
+      - label: "President — Khulna University Career Club, Khulna, Bangladesh (Apr 2022 – Feb 2023)"
+        details: "Led 15+ events, including 1 national and 1 regional, with a team of 50+ members."
 
-      - company: Rotaract Club of Khulna University
-        position: International Service Director
-        location: Khulna, Bangladesh
-        start_date: 2020-07-01
-        end_date: 2021-04-01
-        summary: Organized 6+ events, working in a team of 30+ members.
+      - label: "International Service Director — Rotaract Club of Khulna University, Khulna, Bangladesh (Jul 2020 – Apr 2021)"
+        details: "Organized 6+ events, working in a team of 30+ members."
 
     Publications:
       - title: "Med-2D SegNet: A Lightweight Deep Neural Network for Medical 2D Image Segmentation"
