@@ -13,7 +13,7 @@ cv:
       username: salauddin-tapu
 
   address:
-    street: ""
+    street: Gachon University
     city: Seongnam
     region: Gyeonggi-do
     postalCode: 13120
@@ -52,6 +52,13 @@ cv:
       - bullet: AI
 
     Experience:
+      - company: ECMS Lab, Gachon University
+        position: Graduate Research Assistant
+        location: Seongnam, South Korea
+        start_date: 2026-03
+        end_date: Present
+        summary: Currently working on small-scale robotics, actuators, and miniaturized UAVs.
+
       - company: Anwar Technologies
         position: Junior Machine Learning Engineer
         location: Dhaka, Bangladesh
