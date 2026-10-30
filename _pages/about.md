@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 <p style="text-align: justify;">
-Hi, I am Salauddin Tapu. I am currently pursuing my masters at Gachon University, Seongnam, South Korea. I am working as a Graduate Research Assistant at the <a href="https://sites.google.com/view/ecmslab">Energy Conversion Materials and Systems (ECMS)</a> Laboratory under the supervision of <a href="https://scholar.google.com/citations?user=R46T_moAAAAJ&hl=ko">Prof. Jongkuk Ko</a>. I joined the ECMS Lab in Spring 2026. My current research focuses on robotics and actuation systems, with particular interests in intelligent robotic platforms, autonomous systems, and robot design.
+Hi, I am Salauddin Tapu. I am currently pursuing my masters at Gachon University, Seongnam, South Korea. I am working as a Graduate Research Assistant at the <a href="https://kjk328.github.io/msf/index.html">Materials and Systems Foundry (MSF) Group</a> under the supervision of <a href="https://scholar.google.com/citations?user=R46T_moAAAAJ&hl=ko">Prof. Jongkuk Ko</a>. I joined the MSF group in Spring 2026. My current research focuses on robotics, actuation systems and miniaturized UAVs, with particular interests in intelligent robotic platforms, autonomous systems, and robot design.
 </p>
 
 <p style="text-align: justify;">
