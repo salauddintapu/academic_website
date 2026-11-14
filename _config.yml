@@ -220,6 +220,7 @@ include: ["_pages"]
 exclude:
   - AGENTS.md
   - al-folio-upgrade-report.md
+  - assets/academicons-1.9.4/
   - bin/
   - CLAUDE.md
   - Dockerfile

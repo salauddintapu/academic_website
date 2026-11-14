@@ -16,17 +16,8 @@ nav_order: 2
 <div class="publications">
 
 <h2 class="bibliography">Manuscripts in Preparation</h2>
-<ol class="bibliography">
-  <li>
-    <div class="row">
-      <div class="col-sm-2 abbr"></div>
-      <div class="col-sm-8">
-        <div class="title">Cost- and Time-Efficient Data Extraction from Scientific Documents Using Large Language Models</div>
-        <div class="periodical"><em>Manuscript in preparation</em></div>
-      </div>
-    </div>
-  </li>
-</ol>
+
+{% bibliography --file in_preparation --group_by none %}
 
 {% bibliography %}
 
